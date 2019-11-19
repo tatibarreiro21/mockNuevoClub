@@ -1,8 +1,8 @@
 {
   "rewards": [
-    { "id": 1, "nombre": "Post 1" },
-    { "id": 2, "nombre": "Post 2" },
-    { "id": 3, "nombre": "Post 3" }
+    { "id": 1, "name": "Post 1" , "description": "hola 1" },
+    { "id": 2, "name": "Post 2" , "description": "hola 2" },
+    { "id": 3, "name": "Post 3" , "description": "hola 3" }
   ],
   "parametros": [
     { "id": 1, "nombre": "parametro 1", "valor": 1 },
