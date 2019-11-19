@@ -1,5 +1,5 @@
 {
-  "premios": [
+  "rewards": [
     { "id": 1, "nombre": "Post 1" },
     { "id": 2, "nombre": "Post 2" },
     { "id": 3, "nombre": "Post 3" }
