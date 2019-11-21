@@ -1,8 +1,26 @@
 {
-  "rewards": [
-    { "id": 1, "name": "Post 1" , "description": "hola 1" },
-    { "id": 2, "name": "Post 2" , "description": "hola 2" },
-    { "id": 3, "name": "Post 3" , "description": "hola 3" }
-  ],
-  "total":3,
+	"rewards": [{
+			"id": 1,
+			"name": "Post 1",
+			"description": "hola 1"
+		},
+		{
+			"id": 2,
+			"name": "Post 2",
+			"description": "hola 2"
+		},
+		{
+			"id": 3,
+			"name": "Post 3",
+			"description": "hola 3"
+		}
+	],
+	"last": true,
+	"totalElements": 3,
+	"totalPages": 1,
+	"sort": null,
+	"first": true,
+	"numberOfElements": 3,
+	"size": 100,
+	"number": 0
 }
